@@ -18,16 +18,16 @@ The system manages vehicle entries, exits, and queries, and provides information
 - Tkinter (for the GUI version)
 
 ## Installation
-Clone this repository to your local machine using the following command:
+Clone this repository to your local machine using the following command:  
 git clone https://github.com/Shaheer-Rehan/CarParkSimulator.git 
 
 ## Usage
 ### Command Prompt Interface
 To run the project using the command prompt interface:
-1. Navigate to the project directory
+1. Navigate to the project directory  
 cd CarParkSimulator
-2. Run the following command:
-python cmd_codeV2.py
+2. Run the following command:  
+python cmd_codeV2.py  
 You will be prompted to choose one of the following options:
 - Enter a vehicle
 - Exit a vehicle
@@ -37,10 +37,10 @@ You will be prompted to choose one of the following options:
 
 ### Graphical User Interface
 To run the project using the GUI:
-1. Navigate to the project directory
+1. Navigate to the project directory  
 cd CarParkSimulator
-2. Run the following command:
-python gui_code.py
+2. Run the following command:  
+python gui_code.py  
 This will open a GUI window where you can interact with the different buttons.
 
 ## File Descriptions
